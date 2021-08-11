@@ -1,4 +1,6 @@
 # Python 3.9.6
+
+
 # function to print the result of given expression
 def print_output(X, Y):
     result = (X**Y)+(Y**X)
