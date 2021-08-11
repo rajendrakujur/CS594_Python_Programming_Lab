@@ -1,9 +1,14 @@
 # Python 3.9.6
+
+
 # function to print the desired output
 def print_output(first_number, second_number):
-    result = first_number/second_number
-    # used the concept of round() to print upto 2 decimal digits
-    print(round(result, 2))
+    if second_number != 0:
+        result = first_number/second_number
+        # used the concept of format() to print upto 2 decimal digits
+        print(format(result, '.2f'))
+    else:
+        print("Can't divide with zero.")
 
 
 # execution starts
