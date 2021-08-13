@@ -1,5 +1,5 @@
 # Python 3.9.6
-
+# Last updated on 10-08-2021 by Rajendra Kujur
 
 # function to print pattern, input taken as a constant as per given in problem statement
 def print_pattern(number_of_lines):
