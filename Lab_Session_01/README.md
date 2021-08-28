@@ -1,5 +1,7 @@
 1.Write a Python program to  print pattern shown below;
 
+
+
 *************
  ***********
   *********
