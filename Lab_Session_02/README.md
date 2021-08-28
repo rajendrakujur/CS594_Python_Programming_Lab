@@ -19,6 +19,6 @@
 		h)If n is greater than 59 but less than 150 output "senior citizen"
 
 
-	(2) Modify the above program to repeatedly take inputs unit  the user  decides to quit. You need to write two versions, one in which the user decides to quit 			after a fixed number of iterations and another in which the user is prompted each time if he/she wants to continue.
+	(2) Modify the above program to repeatedly take inputs unit  the user  decides to quit. You need to write two versions, one in which the user decides to 	     quit after a fixed number of iterations and another in which the user is prompted each time if he/she wants to continue.
 
 	(3) Write a program to read a persons date of birth and output the day of the week when he was born.
