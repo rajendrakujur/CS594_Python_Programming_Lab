@@ -1,7 +1,5 @@
 1.Write a Python program to  print pattern shown below;
 
-
-
 *************
  ***********
   *********
@@ -9,7 +7,7 @@
     *****
      ***
       *
-
+      
 2. Write a Python program to ask read two  numbers x  and y  output  x^y +y^x
 
 3. Write a Python program that prompts the user for two integer values and displays the result of the first number divided by the second, with exactly two decimal places displayed
